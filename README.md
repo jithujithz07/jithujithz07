@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif)]
+![MasterHead](https://media0.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif)
 <h1 align="center">Hi 👋, I'm JITHU U S</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif")
