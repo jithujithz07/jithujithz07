@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **a secret project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **odoo**
 
 - 👨‍💻 All of my projects are available at [http://jithujithz07.github.io/jithu-portfolio/](http://jithujithz07.github.io/jithu-portfolio/)
 
